@@ -6,3 +6,5 @@ if c==2:
     print("prime")
 else:
     print("not prime")
+
+print("hiabd")
